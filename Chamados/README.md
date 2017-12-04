@@ -1,9 +1,19 @@
+# Gerenciador de Chamados (Entrega do Projeto)
 
-Login - https://imgur.com/gallery/ROjWz
+### Integrantes: André Victor e Fernando Siqueira
 
-cadastro usuario - https://imgur.com/gallery/TZIJU
+### Orientador: Giuliano Bertoti
 
-Pesquisa Chamado - https://imgur.com/gallery/LWCby
+Diagrama de Classe: https://imgur.com/a/XQD8G
 
-Gerencia Chamado - https://imgur.com/gallery/DWz9B
+Telas da aplicação:
+
+1 - Login - https://imgur.com/gallery/ROjWz
+
+2 - Cadastro usuario - https://imgur.com/gallery/TZIJU
+
+3 - Pesquisa Chamado - https://imgur.com/gallery/LWCby
+
+4 - Gerencia Chamado - https://imgur.com/gallery/DWz9B
+
 
